@@ -1,0 +1,11 @@
+asgiref
+Django
+pytz
+sqlparse
+flake8
+gunicorn
+Pillow
+django-crispy-forms
+sorl-thumbnail
+django-debug-toolbar
+whitenoise

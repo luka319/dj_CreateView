@@ -1,0 +1,1 @@
+"W:\[__stepik]\[academy]\django01_платный\week04\dj_crispy_forms\one\venv\Scripts\python.exe" %*
